@@ -7,7 +7,7 @@
  
 # Document File Structure
 ```
-[Page Container]
+[Root]
 ├───[Language Folder]
 │   ├───setting.json
 │   ├───pages
