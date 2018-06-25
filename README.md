@@ -9,9 +9,10 @@
 ```
 [Page Container]
 ├───[Language Folder]
-    │    setting.json
-    ├───pages
-        │    [page].md
+│   ├───setting.json
+│   ├───pages
+│       ├───[page].md
+├───setting.json
 ```
 the `Page Container` is the root folder that contains `language folders`.
 each `language folder` like `fa` has a `setting.json` and a `pages` folder.
@@ -19,6 +20,9 @@ each `language folder` like `fa` has a `setting.json` and a `pages` folder.
 `pages` folder contains the markdown files that the documents has been written in it.
 
 # Setting.json
+this file contains some setting properties. now is just the languages that are exist.
+
+# [Language Folder] -> Setting.json
 each language folder has its `setting` . this file has some rules.
 
 * __files__ :  this property is an associative array that contains a list of markdown files details. the `key` of property is the file name with out `.md`.
