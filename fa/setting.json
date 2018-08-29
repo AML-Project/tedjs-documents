@@ -13,12 +13,17 @@
         "Globals":{
             "name":"تابع گلوبال",
             "desc":"محلی سازی توابع عمومی برای شخصی سازی",
-            "icon":"fa-thumb-tack"
+            "icon":"fa-globe"
         },
         "Validation":{
             "name":"توابع صحت سنجی",
             "desc":"توابعی برای بررسی صحبت نوع داده ها",
             "icon":"fa-check"
+        },
+        "DOM":{
+            "name":"توابع DOM",
+            "desc":"توابعی عمومی برای مدیریت DOM ها",
+            "icon":"fa-thumb-tack"
         }
     },
     "title":"تد جی اس | مستندات",
