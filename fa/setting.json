@@ -13,7 +13,7 @@
         "Globals":{
             "name":"تابع گلوبال",
             "desc":"محلی سازی توابع عمومی برای شخصی سازی",
-            "icon":"fa-globe"
+            "icon":"fa-globe-asia"
         },
         "Validation":{
             "name":"توابع صحت سنجی",
@@ -23,7 +23,12 @@
         "DOM":{
             "name":"توابع DOM",
             "desc":"توابعی عمومی برای مدیریت DOM ها",
-            "icon":"fa-thumb-tack"
+            "icon":"fa-thumbtack"
+        },
+        "MathAndTime":{
+            "name":"اعداد و زمان",
+            "desc":"توابع ریاضی و اعداد و کار با زمان",
+            "icon":"fa-superscript"
         }
     },
     "title":"تد جی اس | مستندات",
