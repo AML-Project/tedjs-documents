@@ -30,7 +30,7 @@
 
 به عنوان مثال شی ای به صورت زیر ایجاد می کنیم:
 
-<img src="/Tedjs-new/Document/assets/images/eq1.png"></img>
+<img src="/assets/images/eq1.png"></img>
 <span class="imgDesc">سه نقطه روی نمودار برای ایجاد معادله</span>
 
 ``` javascript
