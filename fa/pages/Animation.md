@@ -1,11 +1,11 @@
-## تابع animGraph
+﻿## تابع animGraph
 این تابع یکی از توابع اصلی کتابخانه `tedjs` می باشد که از توابع درجه دوم استفاده می کند و یک راه آسان برای ایجاد افکت ها و انیمیشن های دو بعدی را فراهم می سازد.
 <br/>
 !! نکته
 ! این تابع ، به صورت کلاس طراحی شده است . می بایست برای استفاده از این کلاس یک <b>نمونه</b> ایجاد نمایید
 <br/>
 
-<img src="http://localhost:1024/Tedjs-new/Document/assets/images/anim.jpg"></img>
+<img src="https://doc.tedjs.org/assets/images/anim.jpg"></img>
 <span class="imgDesc">هر قله یا دره در نمودار یک معادله درجه دوم می باشد</span>
 
 <br/>
