@@ -34,6 +34,11 @@
             "name":"رخداد ها",
             "desc":"نحوه اتصال و حذف Event ها از DOM ها",
             "icon":"fa-plug"
+        },
+        "Animation":{
+            "name":"انیمیشن",
+            "desc":"ایجاد افکت و انیمیشن",
+            "icon":"fa-draw-polygon"
         }
     },
     "title":"تد جی اس | مستندات",
